@@ -1,0 +1,1 @@
+# Diabetic_ratinopathy_detection_usin_pretrained_models
