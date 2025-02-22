@@ -2,7 +2,7 @@
 ## Project Overview
 This project focuses on the automated detection of Diabetic Retinopathy (DR) using deep learning techniques and pre-trained models. By leveraging transfer learning and efficient image preprocessing, this system accurately classifies retinal fundus images into five stages of DR severity.
 ## Dataset
-Name: Diabetic Retinopathy 224x224 (2019 Data)
+Name: Diabetic Retinopathy 224x224 (2019 Data) 
 Source: https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-2019-data
 Total Images: 3662 fundus images
 Class Distribution:
